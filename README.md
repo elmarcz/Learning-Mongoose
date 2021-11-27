@@ -7,6 +7,7 @@
 <p align="center">
     <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='50px'/>
     <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='50px'/>
+    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='50px'/>
 </p>
 
 ## 📝 Description
@@ -21,14 +22,13 @@ A project that I use to practise. The video that i use to practise is this: [Faz
 - [x] Backend
 - [x] Database
 
-- [ ] Hosted
 
 ## 💡 App Info
 
 ### Start the app 🔌
 - <b>mongod</b>
 
-### Dev Dependencies 📦
+### Dependencies 📦
 - npm i mongoose
 
 ### Download 📁
